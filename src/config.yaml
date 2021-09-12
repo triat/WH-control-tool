@@ -1,0 +1,12 @@
+---
+access_token: TEST123
+
+config1:
+  liqsize: 111
+  long_vwap: 12
+  short_vwap: 12
+
+config2:
+  liqsize: 222
+  long_vwap: 22
+  short_vwap: 22
